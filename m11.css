@@ -1,0 +1,227 @@
+.frame-child1 {
+  position: absolute;
+  top: 129px;
+  left: -20px;
+  background: linear-gradient(
+    180deg,
+    #e79a06 11.98%,
+    #fff 53.65%,
+    #15b007 88.54%
+  );
+  width: 1466px;
+  height: 894px;
+}
+.ellipse-icon,
+.frame-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+}
+.frame-child3 {
+  top: 1px;
+  left: -20px;
+  background: linear-gradient(180deg, #f39303 10.42%, #fff 50%, #15b007 93.23%);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1466px;
+  height: 128px;
+}
+.safe-voting-ui1 {
+  position: absolute;
+  top: 26.5px;
+  left: 138.29px;
+  display: inline-block;
+  background: linear-gradient(
+    180deg,
+    #d58206 26.04%,
+    #fff 37.5%,
+    #15b007 64.58%,
+    #15b007
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 450.45px;
+  height: 63px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.eci-logo-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 134.29px;
+  height: 116px;
+  object-fit: cover;
+}
+.safe-voting-ui-group {
+  position: absolute;
+  top: 13px;
+  left: 1px;
+  width: 588.74px;
+  height: 108px;
+}
+.group-inner,
+.rectangle-wrapper {
+  position: absolute;
+  width: 637px;
+  height: 715px;
+}
+.group-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  mix-blend-mode: multiply;
+}
+.rectangle-wrapper {
+  top: 173px;
+  left: 366px;
+  mix-blend-mode: normal;
+}
+.frame-child4 {
+  position: absolute;
+  top: 247px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 93px;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6 {
+  left: 831px;
+  width: 138px;
+  cursor: pointer;
+}
+.frame-child5 {
+  position: absolute;
+  top: 385px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 93px;
+}
+.frame-child6 {
+  top: 520px;
+}
+.frame-child6,
+.frame-child7,
+.frame-child8 {
+  position: absolute;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 93px;
+}
+.frame-child7 {
+  top: 655px;
+  left: 831px;
+  width: 138px;
+  cursor: pointer;
+}
+.frame-child8 {
+  top: 385px;
+  left: 404px;
+  width: 412px;
+}
+.tdp {
+  position: absolute;
+  top: 409px;
+  left: 475px;
+  display: inline-block;
+  width: 191px;
+  height: 57px;
+}
+.frame-child10,
+.frame-child11,
+.frame-child9 {
+  position: absolute;
+  top: 520px;
+  left: 404px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 412px;
+  height: 93px;
+}
+.frame-child10,
+.frame-child11 {
+  top: 664px;
+}
+.frame-child11 {
+  top: 247px;
+}
+.jsn,
+.nota,
+.ysr {
+  position: absolute;
+  top: 269px;
+  left: 475px;
+  display: inline-block;
+  width: 191px;
+  height: 57px;
+}
+.nota,
+.ysr {
+  top: 538px;
+}
+.nota {
+  top: 682px;
+}
+.image-3-icon,
+.image-6-icon,
+.image-7-icon {
+  position: absolute;
+  top: 527px;
+  left: 701px;
+  width: 79px;
+  height: 79px;
+  object-fit: cover;
+}
+.image-6-icon,
+.image-7-icon {
+  top: 263px;
+  left: 695px;
+  width: 84px;
+  height: 68px;
+}
+.image-7-icon {
+  top: 393px;
+  left: 697px;
+  width: 83px;
+  height: 76px;
+}
+.pngtreegreen-check-mark-icon1,
+.pngwing-1-icon {
+  position: absolute;
+  top: 675px;
+  left: 706px;
+  width: 70px;
+  height: 68px;
+  object-fit: cover;
+}
+.pngtreegreen-check-mark-icon1 {
+  top: 365px;
+  left: 852px;
+  width: 95px;
+  height: 137px;
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

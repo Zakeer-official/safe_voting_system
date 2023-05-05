@@ -1,0 +1,36 @@
+html,body {
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+/*  overflow: hidden;*/
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-21xl: 40px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-4xl: 23px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-springgreen: rgba(20, 245, 110, 0.29);
+  --color-gray-100: rgba(255, 255, 255, 0.85);
+  --color-gray-200: rgba(255, 255, 255, 0.45);
+  --color-gray-300: rgba(255, 255, 255, 0.55);
+  --color-gray-400: rgba(255, 255, 255, 0.24);
+
+  /* border radiuses */
+  --br-21xl: 40px;
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+  --br-26xl: 45px;
+  --br-46xl: 65px;
+}

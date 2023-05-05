@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./m12.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="rectangle-parent20">
+      <div class="frame-child71"></div>
+      <img class="frame-child72" alt="" src="./public/ellipse-1.svg" />
+
+      <img class="frame-child72" alt="" src="./public/ellipse-2.svg" />
+
+      <div class="frame-child74"></div>
+      <div class="safe-voting-ui-parent8">
+        <b class="safe-voting-ui11">SAFE VOTING UI</b>
+        <img
+          class="eci-logo-1-icon11"
+          alt=""
+          src="images/logo.png"
+        />
+      </div>
+      <div class="rectangle-parent21">
+        <div class="group-child21"></div>
+        <b class="vote-registered-successfully1"
+          >VOTE REGISTERED SUCCESSFULLY</b
+        >
+        <img
+          class="pngtreegreen-check-mark-icon4"
+          alt=""
+          src="images/check.png"
+        />
+      </div>
+      <div class="rectangle-parent22" id="groupContainer2">
+        <div class="group-child22"></div>
+        <b class="submit1">SUBMIT</b>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      var groupContainer2 = document.getElementById("groupContainer2");
+      if (groupContainer2) {
+        groupContainer2.addEventListener("click", function (e) {
+          window.location.href = "m8.html";
+        });
+      }
+      var count = 5;
+      var redirect = "m1.html";
+      function countDown() {
+      if(count >= 0){
+      document.getElementById("timer").innerHTML = count--;
+      setTimeout("countDown()", 1000);
+      }else{
+      window.location.href = redirect;
+      }
+      }
+      countDown();
+    </script>
+  </body>
+</html>

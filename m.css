@@ -1,0 +1,126 @@
+.rectangle-2-thqexclude {
+  position: absolute;
+  top: 98px;
+  left: -20px;
+  background: linear-gradient(
+    180deg,
+    #e79a06 11.98%,
+    #fff 53.65%,
+    #15b007 88.54%
+  );
+  width: 100%;
+  height: 904px;
+}
+.frame-1-thqexclude-child {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+}
+.frame-1-thqexclude-inner {
+  position: absolute;
+  top: 0;
+  left: -20px;
+  background: linear-gradient(180deg, #f39303 10.42%, #fff 50%, #15b007 93.23%);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 99px;
+}
+.eci-logo-1-icon {
+  flex: 1;
+  position: relative;
+  max-width: 90%;
+  overflow: hidden;
+  height: 66px;
+/*  object-fit: cover;*/
+}
+.safe-voting-ui {
+  flex: 1;
+  position: relative;
+  background: linear-gradient(
+    180deg,
+    #d58206 26.04%,
+    #fff 37.5%,
+    #15b007 64.58%,
+    #15b007
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.eci-logo-1-parent {
+  position: absolute;
+  top: 18px;
+  left: 1px;
+  width: 645px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 9px;
+  font-size: 40px;
+}
+.frame-child,
+.online-mode- {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 220px;
+}
+.online-mode- {
+  top: 240px;
+  display: inline-block;
+  width: 256px;
+  height: 53px;
+}
+.user-1-icon {
+  position: absolute;
+  top: 56px;
+  left: 57px;
+  width: 109px;
+  height: 122px;
+  object-fit: cover;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 309px;
+  left: 786px;
+  width: 256px;
+  height: 293px;
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 120px);
+  width: 220px;
+  height: 220px;
+}
+.group-1-icon {
+  position: absolute;
+  top: 37px;
+  left: 45px;
+  width: 146px;
+  height: 146px;
+  object-fit: cover;
+}
+.ellipse-group {
+  position: absolute;
+  top: 309px;
+  left: 425px;
+  width: 256px;
+  height: 293px;
+}
+.frame-1-thqexclude {
+  position: absolute;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

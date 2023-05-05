@@ -1,0 +1,137 @@
+.frame-child71 {
+  position: absolute;
+  top: 121px;
+  left: -20px;
+  background: linear-gradient(
+    180deg,
+    #e79a06 11.98%,
+    #fff 53.65%,
+    #15b007 88.54%
+  );
+  width: 1466px;
+  height: 904px;
+}
+.frame-child72,
+.frame-child74 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1025px;
+}
+.frame-child74 {
+  left: -20px;
+  background: linear-gradient(180deg, #f39303 10.42%, #fff 50%, #15b007 93.23%);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1466px;
+  height: 129px;
+}
+.safe-voting-ui11 {
+  position: absolute;
+  top: 26.5px;
+  left: 138.29px;
+  display: inline-block;
+  background: linear-gradient(
+    180deg,
+    #d58206 26.04%,
+    #fff 37.5%,
+    #15b007 64.58%,
+    #15b007
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 450.45px;
+  height: 63px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.eci-logo-1-icon11 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 134.29px;
+  height: 116px;
+  object-fit: cover;
+}
+.group-child21,
+.safe-voting-ui-parent8 {
+  position: absolute;
+  top: 13px;
+  left: 1px;
+  width: 588.74px;
+  height: 108px;
+}
+.group-child21 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-springgreen);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 629.62px;
+  height: 378.18px;
+}
+.vote-registered-successfully1 {
+  position: absolute;
+  top: 312px;
+  left: 40px;
+  display: inline-block;
+  width: 750px;
+  height: 113px;
+}
+.pngtreegreen-check-mark-icon4 {
+  position: absolute;
+  top: 49px;
+  left: 145px;
+  width: 339px;
+  height: 236px;
+  object-fit: cover;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: 331px;
+  left: 425px;
+  width: 790px;
+  height: 425px;
+  font-size: var(--font-size-13xl);
+}
+.group-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: #d9d9d9;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 210px;
+  height: 62px;
+}
+.submit1 {
+  position: absolute;
+  top: 17px;
+  left: 54.56px;
+  display: inline-block;
+  width: 136.11px;
+  height: 31px;
+}
+.rectangle-parent22 {
+  position: absolute;
+  top: 756px;
+  left: 619px;
+  width: 210px;
+  height: 62px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-parent20 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1025px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

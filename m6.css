@@ -1,0 +1,129 @@
+.frame-child1 {
+  position: absolute;
+  top: 121px;
+  left: -20px;
+  background: linear-gradient(
+    180deg,
+    #e79a06 11.98%,
+    #fff 53.65%,
+    #15b007 88.54%
+  );
+  width: 1466px;
+  height: 904px;
+}
+.ellipse-icon,
+.frame-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1025px;
+}
+.frame-child3 {
+  left: -20px;
+  background: linear-gradient(180deg, #f39303 10.42%, #fff 50%, #15b007 93.23%);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1466px;
+  height: 129px;
+}
+.safe-voting-ui1 {
+  position: absolute;
+  top: 26.5px;
+  left: 138.29px;
+  display: inline-block;
+  background: linear-gradient(
+    180deg,
+    #d58206 26.04%,
+    #fff 37.5%,
+    #15b007 64.58%,
+    #15b007
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 450.45px;
+  height: 63px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.eci-logo-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 134.29px;
+  height: 116px;
+  object-fit: cover;
+}
+.safe-voting-ui-group {
+  position: absolute;
+  top: 13px;
+  left: 1px;
+  width: 588.74px;
+  height: 108px;
+  font-size: var(--font-size-21xl);
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: rgba(20, 245, 110, 0.29);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 629.62px;
+  height: 378.18px;
+}
+.vote-registered-successfully {
+  position: absolute;
+  top: 312px;
+  left: 40px;
+  display: inline-block;
+  width: 750px;
+  height: 113px;
+}
+.pngtreegreen-check-mark-icon {
+  position: absolute;
+  top: 49px;
+  left: 145px;
+  width: 339px;
+  height: 236px;
+  object-fit: cover;
+}
+.frame-child4,
+.rectangle-parent1 {
+  position: absolute;
+  top: 331px;
+  left: 425px;
+  width: 790px;
+  height: 425px;
+}
+.frame-child4 {
+  top: 758px;
+  left: 598px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 279px;
+  height: 66px;
+  cursor: pointer;
+}
+.submit {
+  position: absolute;
+  top: 772px;
+  left: 673px;
+  display: inline-block;
+  width: 153px;
+  height: 38px;
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1025px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

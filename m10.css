@@ -1,0 +1,161 @@
+.frame-child9 {
+  position: absolute;
+  top: 121px;
+  left: -20px;
+  background: linear-gradient(
+    180deg,
+    #e79a06 11.98%,
+    #fff 53.65%,
+    #15b007 88.54%
+  );
+  width: 1466px;
+  height: 904px;
+}
+.ellipse-icon,
+.frame-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1025px;
+}
+.frame-child11 {
+  left: -20px;
+  background: linear-gradient(180deg, #f39303 10.42%, #fff 50%, #15b007 93.23%);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1466px;
+  height: 129px;
+}
+.safe-voting-ui1 {
+  position: absolute;
+  top: 26.5px;
+  left: 138.29px;
+  display: inline-block;
+  background: linear-gradient(
+    180deg,
+    #d58206 26.04%,
+    #fff 37.5%,
+    #15b007 64.58%,
+    #15b007
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 450.45px;
+  height: 63px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.eci-logo-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 134.29px;
+  height: 116px;
+  object-fit: cover;
+}
+.safe-voting-ui-group {
+  position: absolute;
+  top: 13px;
+  left: 1px;
+  width: 588.74px;
+  height: 108px;
+  font-size: var(--font-size-21xl);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 275px;
+  left: 441px;
+  border-radius: var(--br-11xl);
+  width: 631px;
+  height: 377px;
+  object-fit: cover;
+}
+.group-item {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 260px;
+  height: 70px;
+}
+.vector-icon {
+  position: absolute;
+  height: 42.87%;
+  width: 20.87%;
+  top: 100%;
+  right: 13%;
+  bottom: 30.5%;
+  left: 67.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.allow-to-vote {
+  position: absolute;
+  top: 88px;
+  left: 43px;
+  display: inline-block;
+  width: 240px;
+  height: 47px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 716px;
+  left: 642px;
+  width: 283px;
+  height: 70px;
+  cursor: pointer;
+}
+.group-inner {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 240px;
+  height: 357px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 8.78%;
+  width: 11.72%;
+  top: 5.56%;
+  right: 13.67%;
+  bottom: 85.67%;
+  left: 74.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.voting-history {
+  position: absolute;
+  top: 19.84px;
+  left: 16px;
+  display: inline-block;
+  width: 240px;
+  height: 49.08px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 277px;
+  left: 1151px;
+  width: 256px;
+  height: 357px;
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1025px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

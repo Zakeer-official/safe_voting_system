@@ -1,0 +1,204 @@
+.frame-child5 {
+  position: absolute;
+  top: 121px;
+  left: -20px;
+  background: linear-gradient(
+    180deg,
+    #e79a06 11.98%,
+    #fff 53.65%,
+    #15b007 88.54%
+  );
+  width: 1466px;
+  height: 904px;
+}
+.frame-child6,
+.frame-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1025px;
+}
+.frame-child8 {
+  left: -20px;
+  background: linear-gradient(180deg, #f39303 10.42%, #fff 50%, #15b007 93.23%);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1466px;
+  height: 129px;
+}
+.safe-voting-ui1 {
+  position: absolute;
+  top: 26.5px;
+  left: 138.29px;
+  display: inline-block;
+  background: linear-gradient(
+    180deg,
+    #d58206 26.04%,
+    #fff 37.5%,
+    #15b007 64.58%,
+    #15b007
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 450.45px;
+  height: 63px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.eci-logo-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 134.29px;
+  height: 116px;
+  object-fit: cover;
+}
+.safe-voting-ui-group {
+  position: absolute;
+  top: 13px;
+  left: 1px;
+  width: 588.74px;
+  height: 108px;
+}
+.group-child1,
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-300);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 612px;
+  height: 701px;
+}
+.group-child1 {
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gray-100);
+  width: 244px;
+  height: 65px;
+  cursor: pointer;
+}
+.proceed {
+  position: absolute;
+  top: 18px;
+  left: 61px;
+  display: inline-block;
+  width: 315px;
+  height: 62px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 559px;
+  left: 183px;
+  width: 376px;
+  height: 80px;
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 94px;
+  left: 52px;
+  background-color: var(--color-gray-100);
+  width: 495px;
+  height: 50px;
+}
+.group-child3,
+.group-child4,
+.group-child5 {
+  top: 215px;
+}
+.group-child4,
+.group-child5 {
+  top: 331px;
+}
+.group-child5 {
+  top: 450px;
+}
+.center-id,
+.constituency1,
+.state1,
+.ward-number {
+  position: absolute;
+  top: 407px;
+  left: 52px;
+  display: inline-block;
+  width: 346px;
+  height: 43px;
+  -webkit-text-stroke: 1px #000;
+}
+.constituency1,
+.state1,
+.ward-number {
+  top: 172px;
+}
+.state1,
+.ward-number {
+  top: 282px;
+}
+.state1 {
+  top: 48px;
+}
+.group-div {
+  position: absolute;
+  top: 166px;
+  left: 415px;
+  width: 612px;
+  height: 701px;
+  font-size: var(--font-size-6xl);
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 270px;
+  height: 62px;
+  cursor: pointer;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 31.36%;
+  width: 9.26%;
+  top: 33.87%;
+  right: 10.37%;
+  bottom: 34.77%;
+  left: 80.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.return-home {
+  position: absolute;
+  top: 17px;
+  left: 47px;
+  display: inline-block;
+  width: 175px;
+  height: 31px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 938px;
+  left: 21px;
+  width: 270px;
+  height: 62px;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1025px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

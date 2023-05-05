@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./m8.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="rectangle-root">
+      <div class="frame-child1"></div>
+      <img class="ellipse-icon" alt="" src="./public/ellipse-1.svg" />
+
+      <img class="ellipse-icon" alt="" src="./public/ellipse-2.svg" />
+
+      <div class="frame-child3"></div>
+      <div class="frame-child4"></div>
+      <img class="frame-child5" alt="" src="images/pngwing.com%20(3).png" />
+
+      <div class="group-div" id="groupContainer">
+        <div class="group-inner"></div>
+        <img class="vector-icon" alt="" src="images/arrow.png" />
+          <form action="" method="post">
+              <button><a href="m9.html"><b class="next">NEXT</b></a></button>
+              </div>
+      <div class="rectangle-parent1">
+        <div class="group-child1"><input type="text" placeholder="Enter VoterID" style="height:67px; width:319px;"></div>
+        <b class="voter-id">VOTER ID:</b>
+          </form>
+      </div>
+      <div class="safe-voting-ui-group">
+        <b class="safe-voting-ui1">SAFE VOTING UI</b>
+        <img class="eci-logo-1-icon1" alt="" src="images/logo.png" />
+      </div>
+      <img class="user-1-1" alt="" src="images/user%20(1).png" />
+
+      <b class="authenticate">AUTHENTICATE:</b>
+      <div class="frame-child6"></div>
+      <img class="vector-icon1" alt="" src="images/pngwing.com%20(5).png" />
+
+      <div class="frame-child7"></div>
+      <b class="state">STATE: Telangana</b>
+      <b class="centere-id">CENTERE ID: 231</b>
+      <b class="ward-no">WARD NO: 3</b>
+      <b class="constituency">CONSTITUENCY: Macherla</b>
+      <div class="frame-child8"></div>
+      <b class="edit" id="eDITText">EDIT</b>
+      <img
+        class="vector-icon2"
+        alt=""
+        src="images/edit.png"
+        id="vectorIcon1"
+      />
+    </div>
+
+    <script>
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./m9.html";
+        });
+      }
+      
+      var eDITText = document.getElementById("eDITText");
+      if (eDITText) {
+        eDITText.addEventListener("click", function (e) {
+          window.location.href = "./m7.html";
+        });
+      }
+      
+      var vectorIcon1 = document.getElementById("vectorIcon1");
+      if (vectorIcon1) {
+        vectorIcon1.addEventListener("click", function (e) {
+          window.location.href = "./m7.html";
+        });
+      }
+      </script>
+  </body>
+</html>
